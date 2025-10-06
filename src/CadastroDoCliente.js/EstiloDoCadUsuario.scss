@@ -1,0 +1,22 @@
+.ContainerCadastroGeral {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+ h1 {
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color: beige;
+ }
+
+ form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+    width: 100%;
+ }
